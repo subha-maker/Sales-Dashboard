@@ -34,12 +34,6 @@ This project presents an interactive Sales Analysis Dashboard developed using Mi
 
 ---
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
 ## Key Insights
 
 * Identified high-performing products contributing to maximum revenue
@@ -62,10 +56,3 @@ This project presents an interactive Sales Analysis Dashboard developed using Mi
 
 This project demonstrates the effective use of Power BI for business intelligence and data visualization, transforming raw data into meaningful insights.
 
----
-
-## Author
-
-Your Name
-
-If you find this project useful, consider giving it a star.
